@@ -1,3 +1,8 @@
+Sentiment-demo
+==============
+
+[![Build Status](https://travis-ci.org/dharmeshkakadia/Sentiment-demo.svg)](https://travis-ci.org/dharmeshkakadia/Sentiment-demo)
+
 A quick-dirty demo of alchemyapi for sentiment analysis.
 
 Uses maven. Just do 
